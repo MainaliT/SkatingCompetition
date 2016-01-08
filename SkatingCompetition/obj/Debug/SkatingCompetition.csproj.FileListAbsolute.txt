@@ -1,0 +1,6 @@
+F:\Fifth Semester\GUI DEVELOPMENT\SkatingCompetition\SkatingCompetition\bin\Debug\SkatingCompetition.exe.config
+F:\Fifth Semester\GUI DEVELOPMENT\SkatingCompetition\SkatingCompetition\bin\Debug\SkatingCompetition.exe
+F:\Fifth Semester\GUI DEVELOPMENT\SkatingCompetition\SkatingCompetition\bin\Debug\SkatingCompetition.pdb
+F:\Fifth Semester\GUI DEVELOPMENT\SkatingCompetition\SkatingCompetition\obj\Debug\SkatingCompetition.csprojResolveAssemblyReference.cache
+F:\Fifth Semester\GUI DEVELOPMENT\SkatingCompetition\SkatingCompetition\obj\Debug\SkatingCompetition.exe
+F:\Fifth Semester\GUI DEVELOPMENT\SkatingCompetition\SkatingCompetition\obj\Debug\SkatingCompetition.pdb
